@@ -5,13 +5,13 @@ body {background:#fff;}
 .hero {background:#0a2154; padding:50px 20px; color:#fff; text-align:center;}
 h1, h2 {font-weight:700;}
 
-/* FireWall-FFA (needs update) */
-.testimonials {
+/* First Section */
+.Projects {
   display:flex; justify-content:center; gap:40px;
   background:#0a2154; color:#fff; padding:50px 20px; flex-wrap:wrap;
 }
-.testimonial {max-width:260px;}
-.testimonial blockquote {font-size:0.9rem; margin-bottom:10px;}
+.Project {max-width:260px;}
+.Project blockquote {font-size:0.9rem; margin-bottom:10px;}
 .author {opacity:.8; font-size:0.85rem;}
 
 /* Blog previews */
