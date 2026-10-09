@@ -21,10 +21,9 @@
 title: Cybersecurity by Bhavesh Verma
 email: hello@bhaveshverma.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Catch the latest updates in the cybersecurity space. Learn the best practices
-to secure your code. Get ahead in the race of cybersecurity.
+  Catch the latest updates in the cybersecurity space. Learn the best practices to secure your code. Get ahead in the race of cybersecurity.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cyber.bhaveshverma.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xbhaveshverma
 github_username:  iammodernsage
 
@@ -52,8 +51,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-git clone https://github.com/<username>/<username>.github.io.git
-cd <username>.github.io
+#git clone https://github.com/<username>/<username>.github.io.git
+#cd <username>.github.io
 
 # Generate the Jekyll site inside the existing cloned directory
-jekyll new --skip-bundle .
+#jekyll new --skip-bundle .
